@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestHW</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calculator">Calculator</string>
+    <string name="enter_input_a">Enter input a:</string>
+    <string name="enter_input_b">Enter input b:</string>
+    <string name="the_result_of_a_b">The result of a + b = %s</string>
+    <string name="calculate_a_b">Calculate a + b</string>
+    <string name="invalid_number_error">This value is not a number</string>
+    <string name="empty_input_error">Input is empty</string>
+</resources>
